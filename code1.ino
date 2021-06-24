@@ -58,7 +58,7 @@ void loop() {
 
        myservo.write(20);
 
-       delay(15);
+       delay(30);
 
      }
 
@@ -70,7 +70,7 @@ void loop() {
 
        myservo.write(170);
 
-       delay(15);
+       delay(30);
 
      }
 
